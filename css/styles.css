@@ -1,0 +1,541 @@
+.button-primario {
+    background: #2c00f1;
+    color: #fff;
+    border: 2px solid #423d58;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-secundario {
+    background: lightgray;
+    color: black;
+    border: 2px solid lightgray;
+    border-radius: 8px;
+    padding: 10px 35px;
+    cursor: pointer;
+
+}
+.button-exito {
+    background: green;
+    color: white;
+    border: 2px solid green;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-peligro {
+    background: red;
+    color: white;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-advertencia {
+    background: darkgoldenrod;
+    color: black;
+    border: 2px solid darkgoldenrod;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-informacion {
+    background: deepskyblue;
+    color: black;
+    border: 2px solid deepskyblue;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-oscuro {
+    background: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-claro {
+    background: white;
+    color: black;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-texto {
+    background: transparent;
+    color: blue;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-personalizado {
+    background: #ff69b4;
+    color: white;
+    border: 2px solid #ff69b4;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-contorno {
+    background: transparent;
+    color: #2c00f1;
+    border: 2px solid #2c00f1;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+
+}
+.button-bordegrueso {
+    background: #2c00f1;
+    color: white;
+    border: 4px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-bordediscontinuo {
+    background: #2c00f1;
+    color: white;
+    border: 2px dashed black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-bordepunteado {
+    background: #2c00f1;
+    color: white;
+    border: 2px dotted black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-esquinasredondeadas {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-pildora {
+    background: #2c00f1;
+    color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-cirular {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 40px 30px;
+    cursor: pointer;
+
+}
+.button-pequeño {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px 10px;
+    cursor: pointer;
+
+}
+.button-grande {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px 40px;
+    cursor: pointer;
+
+}
+.button-anchocompleto {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    width: 100%;
+    cursor: pointer;
+
+}
+.button-Mayusculas {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+.button-espaciado {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    letter-spacing: 2px;
+    cursor: pointer;
+
+}
+.button-negrita {
+    background: blue;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button-elegante {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+
+}
+.button-subrayado {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+.button-sombrasuave {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+
+}
+.button-sombrapronunciada {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+
+}
+.button-sombradecolor {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: 5px 5px 10px rgba(255, 0, 0, 0.5);
+    cursor: pointer;
+
+}
+.button-relieve {
+    background: #2c00f1;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+
+}
+.button-textobrillante {
+    background: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+
+}
+.button-degradado-horizontal {
+    background: linear-gradient(to right, #2c00f1, #ff69b4);
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+
+}
+.button-degradado-vertical {
+    background: linear-gradient(to bottom, #1d4ed8, #38bdf8);
+    color: white;
+    border: 2px solid #1e3a8a;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.button-degradado-diagonal {
+    background: linear-gradient(135deg, #7c3aed, #ec4899);
+    color: white;
+    border: 2px solid #581c87;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.button-degradado-elegante {
+    background: linear-gradient(120deg, #111827, #4b5563, #111827);
+    color: #f9fafb;
+    border: 2px solid #9ca3af;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.button-degradado-subrayado {
+    background: linear-gradient(#1769c2, #1769c2) padding-box,
+                linear-gradient(90deg, #22c55e, #eab308) border-box;
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+    background-size: 100% 75%, 100% 100%;
+    background-position: top, center;
+    background-repeat: no-repeat;
+}
+.button-degradado-atardecer {
+    background: linear-gradient(135deg, #ff512f, #f09819);
+    color: white;
+    border: 2px solid #c2410c;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.button-degradado-oceano {
+    background: linear-gradient(135deg, #0077b6, #00b4d8, #90e0ef);
+    color: white;
+    border: 2px solid #005f73;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.button-degradado-pastel {
+    background: linear-gradient(135deg, #fbcfe8, #c4b5fd, #bae6fd);
+    color: #312e81;
+    border: 2px solid #c4b5fd;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.button-degradado-bordedegradado {
+    background: linear-gradient(#fff, #fff) padding-box,
+                linear-gradient(90deg, #ef4444, #f59e0b, #22c55e, #3b82f6, #a855f7) border-box;
+    color: #1e3a8a;
+    border: 3px solid transparent;
+    border-radius: 8px;
+    padding: 9px 14px;
+    cursor: pointer;
+}
+.button-degradado-interactivo {
+    background: linear-gradient(90deg, #2563eb 0%, #7c3aed 50%, #db2777 100%);
+    background-size: 200% 100%;
+    background-position: left center;
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-position .6s ease, transform .25s ease;
+}
+.button-degradado-interactivo:hover {
+    background-position: right center;
+    transform: translateY(-2px);
+}
+
+/* 5. Estados e interacción */
+.button-cambio-fondo,.button-cambio-texto,.button-cambio-borde,.button-sombra-interactiva,.button-subrayado-interactivo,.button-presionado,.button-foco-destacado,.button-deshabilitado,.button-transicion-lenta,.button-transicion-escalonada,
+.button-crecer,.button-reducir,.button-elevar,.button-desplazar,.button-rotar,.button-inclinar,.button-presionar,.button-perspectiva,.button-icono-movimiento,.button-combinado,
+.button-icono-izquierdo,.button-icono-derecho,.button-descarga,.button-imagen-fondo,.button-imagen-capa,.button-avatar-texto,.button-icono-separado,.button-imagen-interactuar,.button-icono-revelado,
+.button-relleno-lateral,.button-relleno-inferior,.button-relleno-central,.button-brillo-deslizante,.button-linea-inferior,.button-esquinas-destacadas,.button-doble-capa,.button-circulo-expandido,.button-borde-animado,.button-corte-diagonal,
+.button-pulso,.button-latido,.button-flotante,.button-sacudida,.button-rebote,.button-brillo-pulsante,.button-degradado-movimiento,.button-icono-giratorio,.button-carga-visual,.button-secuencia,
+.button-neon,.button-cristal,.button-neumorfico,.button-retro-3d,.button-metalico,.button-borde-arcoiris,.button-doble-texto,.button-imagen-cinematografica,.button-accion-premium,.button-diseno-original {
+    position: relative; overflow: hidden; border: 0; border-radius: 4px; padding: 8px 10px; margin: 4px 0;
+    background: #1769c2; color: white; cursor: pointer; transition: .25s ease;
+}
+.button-cambio-fondo:hover { background:#123d91; }
+.button-cambio-texto:hover { color:#ffd43b; }
+.button-cambio-borde { border:2px solid transparent; }
+.button-cambio-borde:hover { border-color:#e63946; }
+.button-sombra-interactiva:hover { box-shadow:0 5px 14px #1769c288; }
+.button-subrayado-interactivo:hover { text-decoration:underline; text-underline-offset:4px; }
+.button-presionado:active { transform:translateY(3px); box-shadow:inset 0 3px 5px #0008; }
+.button-foco-destacado:focus { outline:3px solid #ffb703; outline-offset:3px; }
+.button-deshabilitado { opacity:.45; cursor:not-allowed; }
+.button-transicion-lenta { transition:all 1s ease; }
+.button-transicion-lenta:hover { background:#8e44ad; transform:scale(1.08); }
+.button-transicion-escalonada { transition:all .6s steps(4,end); }
+.button-transicion-escalonada:hover { letter-spacing:3px; }
+
+/* 6. Transformaciones */
+.button-crecer:hover { transform:scale(1.2); }
+.button-reducir:hover { transform:scale(.8); }
+.button-elevar:hover { transform:translateY(-7px); box-shadow:0 8px 10px #0005; }
+.button-desplazar:hover { transform:translateX(12px); }
+.button-rotar:hover { transform:rotate(8deg); }
+.button-inclinar:hover { transform:skewX(-12deg); }
+.button-presionar:active { transform:scale(.92); }
+.button-perspectiva:hover { transform:perspective(120px) rotateX(18deg); }
+.button-icono-movimiento::after { content:'→'; display:inline-block; margin-left:6px; transition:.3s; }
+.button-icono-movimiento:hover::after { transform:translateX(7px); }
+.button-combinado:hover { transform:translateY(-5px) rotate(-3deg) scale(1.08); box-shadow:0 8px 12px #0005; }
+/* 7. Iconos e imágenes */
+.button-icono-circular { width:46px; height:46px; border-radius:50%; font-size:20px; padding:0; background:#1769c2; color:white; border:0; cursor:pointer; transition:.25s ease; }
+.button-icono-izquierdo,.button-icono-derecho,.button-descarga { background:#1769c2; }
+.button-descarga:hover { background:#0e4f91; }
+.button-imagen-fondo { background:linear-gradient(#0005,#0005),url('https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=500') center/cover; }
+.button-imagen-capa { background:linear-gradient(#1118,#1118),url('https://images.unsplash.com/photo-1500534623283-312aade485b7?w=500') center/cover; }
+.button-imagen-capa { color:white; }
+.button-avatar-texto { padding-left:34px; }
+.button-avatar-texto::before { content:'👤'; position:absolute; left:9px; }
+.button-icono-separado { padding-left:38px; }
+.button-icono-separado::before { content:'◆'; position:absolute; left:0; top:0; bottom:0; display:grid; place-items:center; width:27px; background:#0b477f; }
+.button-imagen-interactuar { background:linear-gradient(90deg,#1769c2 50%,#e76f51 50%); background-size:200% 100%; }
+.button-imagen-interactuar:hover { background-position:100% 0; }
+.button-icono-revelado::after { content:' ✦'; opacity:0; transition:.3s; }
+.button-icono-revelado:hover::after { opacity:1; }
+/* 8. Efectos con pseudoelementos */
+.button-relleno-lateral::before,.button-relleno-inferior::before,.button-relleno-central::before,.button-brillo-deslizante::before { content:''; position:absolute; background:#0b3d91; transition:.35s; z-index:0; }
+.button-relleno-lateral::before { inset:0 100% 0 0; }
+.button-relleno-lateral:hover::before { right:0; }
+.button-relleno-inferior::before { inset:100% 0 0; }
+.button-relleno-inferior:hover::before { top:0; }
+.button-relleno-central::before { inset:50%; border-radius:50%; }
+.button-relleno-central:hover::before { inset:-30%; }
+.button-brillo-deslizante::before { inset:0 auto 0 -100%; width:50%; transform:skewX(-20deg); background:#fff8; }
+.button-brillo-deslizante:hover::before { left:140%; }
+.button-relleno-lateral,.button-relleno-inferior,.button-relleno-central,.button-brillo-deslizante { isolation:isolate; }
+.button-relleno-lateral::before,.button-relleno-inferior::before,.button-relleno-central::before,.button-brillo-deslizante::before { z-index:-1; }
+.button-linea-inferior::after { content:''; position:absolute; bottom:0; left:50%; width:0; height:3px; background:#ffca3a; transition:.3s; }
+.button-linea-inferior:hover::after { left:0; width:100%; }
+.button-esquinas-destacadas::before { content:'⌜'; position:absolute; left:3px; top:-5px; font-size:22px; color:#ffd166; }
+.button-esquinas-destacadas::after { content:'⌟'; position:absolute; right:3px; bottom:-5px; font-size:22px; color:#ffd166; }
+.button-doble-capa { box-shadow:5px 5px 0 #0b3d91; }
+.button-circulo-expandido::before { content:''; position:absolute; width:0; height:0; left:50%; top:50%; border-radius:50%; background:#fff4; transition:.4s; transform:translate(-50%,-50%); }
+.button-circulo-expandido:hover::before { width:180px; height:180px; }
+.button-borde-animado { border:2px solid #fff; animation:borde 1.5s infinite alternate; }
+.button-corte-diagonal { clip-path:polygon(8% 0,100% 0,92% 100%,0 100%); }
+/* 9. Animaciones CSS */
+@keyframes pulso { 50% { transform:scale(1.08); } }
+@keyframes flotante { 50% { transform:translateY(-6px); } }
+@keyframes sacudida { 25% { transform:translateX(-4px); } 75% { transform:translateX(4px); } }
+@keyframes rebote { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-8px); } }
+@keyframes borde { to { border-color:#ffca3a; box-shadow:0 0 10px #ffca3a; } }
+@keyframes giro { to { transform:rotate(360deg); } }
+.button-pulso { animation:pulso 1.4s infinite; }
+.button-latido { animation:pulso .8s infinite; }
+.button-flotante { animation:flotante 2s ease-in-out infinite; }
+.button-sacudida:hover { animation:sacudida .35s linear 2; }
+.button-rebote:hover { animation:rebote .6s ease; }
+.button-brillo-pulsante { animation:pulso 1.2s infinite alternate; box-shadow:0 0 8px #ffdc73; }
+.button-degradado-movimiento { background:linear-gradient(90deg,#1769c2,#9b5de5,#1769c2); background-size:200%; animation:gradiente 2s linear infinite; }
+@keyframes gradiente { to { background-position:200% 0; } }
+.button-icono-giratorio::after { content:'↻'; display:inline-block; margin-left:5px; }
+.button-icono-giratorio:hover::after { animation:giro .7s linear infinite; }
+.button-carga-visual { background:linear-gradient(90deg,#1769c2 50%,#65a8e8 50%); background-size:200%; animation:carga 2s infinite; }
+@keyframes carga { 0% { background-position:100%; } 100% { background-position:0; } }
+.button-secuencia { animation:flotante 1.8s infinite; }
+/* 10. Diseños avanzados */
+.button-neon { background:#14002e; color:#8efcff; border:1px solid #8efcff; box-shadow:0 0 6px #8efcff, inset 0 0 6px #8efcff; }
+.button-cristal { background:#ffffff40; border:1px solid #fff8; backdrop-filter:blur(8px); color:#123; }
+.button-neumorfico { background:#e7edf5; color:#31506e; box-shadow:6px 6px 12px #b8c1cc,-6px -6px 12px #fff; }
+.button-retro-3d { background:#f15bb5; border-bottom:5px solid #9b2c6f; }
+.button-retro-3d:active { transform:translateY(4px); border-bottom-width:1px; }
+.button-metalico { background:linear-gradient(#eee,#777,#eee); color:#222; text-shadow:1px 1px #fff; }
+.button-borde-arcoiris { background:#1769c2; border:3px solid transparent; background-clip:padding-box; }
+.button-borde-arcoiris::before { content:''; position:absolute; inset:-3px; z-index:-1; background:linear-gradient(90deg,#f00,#ff0,#0f0,#0ff,#00f,#f0f); border-radius:inherit; }
+.button-doble-texto { text-shadow:2px 2px #f15bb5; }
+.button-imagen-cinematografica { background:linear-gradient(#0008,#0008),url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500') center/cover; letter-spacing:1px; }
+.button-accion-premium { background:linear-gradient(135deg,#d4af37,#fff2a8,#b8860b); color:#3b2600; font-weight:bold; border-radius:20px; box-shadow:0 3px 8px #8b6508; }
+.button-diseno-original { background:linear-gradient(135deg,#5f0a87,#a4508b); border-radius:14px 4px 14px 4px; box-shadow:inset 0 0 0 2px #f7b2d8; }
+/* Paleta final aplicada a los botones que antes usaban azul */
+.button-primario,
+.button-contorno,
+.button-bordegrueso,
+.button-bordediscontinuo,
+.button-bordepunteado,
+.button-esquinasredondeadas,
+.button-pildora,
+.button-cirular,
+.button-pequeño,
+.button-grande,
+.button-anchocompleto,
+.button-Mayusculas,
+.button-espaciado,
+.button-elegante,
+.button-subrayado,
+.button-sombrasuave,
+.button-sombrapronunciada,
+.button-sombradecolor,
+.button-relieve {
+    background: #6d28d9;
+}
+.button-contorno {
+    color: #5b21b6;
+    background: transparent;
+    border-color: #7c3aed;
+}
+.button-texto {
+    color: #6d28d9;
+}
+.button-negrita {
+    background: #7c3aed;
+}
+/* Colores de interacción */
+.button-cambio-fondo,
+.button-cambio-texto,
+.button-cambio-borde,
+.button-sombra-interactiva,
+.button-subrayado-interactivo,
+.button-presionado,
+.button-foco-destacado,
+.button-transicion-lenta,
+.button-transicion-escalonada,
+.button-crecer,
+.button-reducir,
+.button-elevar,
+.button-desplazar,
+.button-rotar,
+.button-inclinar,
+.button-presionar,
+.button-perspectiva,
+.button-icono-movimiento,
+.button-combinado,
+.button-icono-izquierdo,
+.button-icono-derecho,
+.button-descarga,
+.button-icono-circular {
+    background-color: #7c3aed;
+}
+.button-cambio-fondo:hover { background-color: #5b21b6; }
+.button-cambio-borde:hover { border-color: #f59e0b; }
+.button-icono-separado::before { background: #5b21b6; }
